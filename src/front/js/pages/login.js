@@ -83,6 +83,7 @@ export const Login = () => {
 						</Form>
 					</Col>
 				</Row>
+				<p> Si quieres probar la experiencia APPTIVATE, puedes acceder con el email "chiara@gmail.com" y room number "606"</p>
 			</div>
 		</div>
 	);
